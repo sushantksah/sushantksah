@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sushant Sah</h1>
-<h3 align="center">A prospective full-stack developer from Toronto!</h3>
+<h3 align="center">A prospective Machine Learning Engineer!</h3>
 
 - 🔭 I’m currently working on [CurrEx](https://github.com/sushantksah/CurrEx)
 
