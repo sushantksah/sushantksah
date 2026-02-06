@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sushantksah@gmail.com**
 
-- 📄 My experience: Soon..!
+- 📄 My experience: Analytics Engineer @ Vetster & EVP @ caseHacks, Prev. Customer Success Engineer @ Hubio Technology
 
 - ⚡ Fun fact **I love everything Pokémon-related!**
 
