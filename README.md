@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sushant Sah</h1>
+<h1 align="center">Hi, I'm Sushant Sah</h1>
 <h3 align="center">A prospective Machine Learning Engineer!</h3>
 
 - 🔭 I’m currently working on [CurrEx](https://github.com/sushantksah/CurrEx)
