@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, and Java**
 
-- 📫 How to reach me **sushantksah@gmail.com**
+- 📫 How to reach me **sushantksah@gmail.com** 
 
 - 📄 My experience: Incoming Analytics Engineer @ Vetster / EVP @ caseHacks, Prev. Customer Success Engineer @ Hubio Technology
 
