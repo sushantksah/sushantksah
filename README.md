@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sushantksah@gmail.com** 
 
-- 📄 My experience: Incoming Analytics Engineer @ Vetster / EVP @ caseHacks, Prev. Customer Success Engineer @ Hubio Technology
+- 📄 My experience: Incoming Analytics Engineer @ Vetster, Prev. Customer Success Engineer @ Hubio Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
