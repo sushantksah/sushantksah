@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CurrEx](https://github.com/sushantksah/CurrEx)
 
-- 🌱 I’m currently learning **Python, SQL, and Java**
+- 🌱 I’m currently working on my **Python & SQL** skills
 
 - 📫 How to reach me **sushantksah@gmail.com** 
 
