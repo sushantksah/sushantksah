@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Sushant Sah</h1>
-<h3 align="center">A prospective Machine Learning Engineer!</h3>
-
-- 🔭 I’m currently working on [CurrEx](https://github.com/sushantksah/CurrEx)
-
-- 🌱 I’m currently working on my **Python & SQL** skills
+<h3 align="center">A Data Engineer based in Toronto!</h3>
 
 - 📫 How to reach me **sushantksah@gmail.com** 
 
-- 📄 My experience: Incoming Analytics Engineer @ Vetster, Prev. Customer Success Engineer @ Hubio Technology
+- 📄 My experience: Data Engineer @ Vetster, Prev. Customer Success Engineer @ Hubio Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
